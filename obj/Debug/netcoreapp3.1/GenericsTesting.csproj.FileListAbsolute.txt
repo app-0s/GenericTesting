@@ -1,0 +1,11 @@
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\obj\Debug\netcoreapp3.1\GenericsTesting.csprojAssemblyReference.cache
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\obj\Debug\netcoreapp3.1\GenericsTesting.AssemblyInfoInputs.cache
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\obj\Debug\netcoreapp3.1\GenericsTesting.AssemblyInfo.cs
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\bin\Debug\netcoreapp3.1\GenericsTesting.exe
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\bin\Debug\netcoreapp3.1\GenericsTesting.deps.json
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\bin\Debug\netcoreapp3.1\GenericsTesting.runtimeconfig.json
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\bin\Debug\netcoreapp3.1\GenericsTesting.runtimeconfig.dev.json
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\bin\Debug\netcoreapp3.1\GenericsTesting.dll
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\bin\Debug\netcoreapp3.1\GenericsTesting.pdb
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\obj\Debug\netcoreapp3.1\GenericsTesting.dll
+C:\Users\Ap-S\source\repos\GenericsTesting\GenericsTesting\obj\Debug\netcoreapp3.1\GenericsTesting.pdb
